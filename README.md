@@ -4,6 +4,10 @@ Subindo uma aplicação no docker com mariadb, wordpress e nginx
 * Docker 
 * Docker Compose 
 
+#### Instalação
+
+Copiar o arquivo .env.example para .env
+
 #### Uso
 
 Clonar o repositório e subir o docker-compose:

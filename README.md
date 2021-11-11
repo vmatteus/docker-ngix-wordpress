@@ -4,7 +4,7 @@ Subindo uma aplicação no docker com mariadb, wordpress e nginx
 * Docker 
 * Docker Compose 
 
-#### Usage
+#### Uso
 
 Clonar o repositório e subir o docker-compose:
 

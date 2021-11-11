@@ -16,4 +16,4 @@ $ docker-compose up
 
 ````
 
-***NOTE***: Caso use em produção, mudar o a porta do nginx pra 80 e esconder e remover a porta do MariaDB
+***NOTE***: Caso use em produção, mudar o a porta do nginx pra 80 e remover a porta do MariaDB

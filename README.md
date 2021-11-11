@@ -12,7 +12,7 @@ Copiar o arquivo .env.example para .env
 
 Clonar o repositório e subir o docker-compose:
 
-Example of use:
+Exemplo:
 
 ````bash
 

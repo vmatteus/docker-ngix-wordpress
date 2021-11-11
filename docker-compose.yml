@@ -13,7 +13,7 @@ services:
     ports:
       - 3306:3306
   wordpress:
-    image: wordpress:php7.4-fpm-alpine
+    image: wordpress:php8.0-fpm-alpine
     volumes:
       - ./data/html:/var/www/html
     depends_on:
